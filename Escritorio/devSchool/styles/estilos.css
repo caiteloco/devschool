@@ -1,0 +1,37 @@
+body{
+	margin:50px;
+	padding: 3px;
+	border: 20px solid black;
+}
+img{
+	height: auto;
+	width: 100px;
+}
+li,p{
+	font-family: sans-serif;
+	font-style: bold;
+	color: gray;
+	font-size: 20px;
+}
+#contenedor{
+	margin-left: 30px;
+	padding: 5px;
+}
+.lorem{
+	font-family: helvetica;
+	color: blue;
+	background-color: none;
+}
+.ipsum{
+	background-color: red;
+}
+.sit{
+	font-family: helvetica;
+}
+.lista{
+	margin-left: 200px;
+	padding: 0px;
+}
+#dolor{
+	font-size: 35px;
+}
